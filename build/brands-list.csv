@@ -1,0 +1,501 @@
+Rank,Company,Industry,2023 Revenue (Billion USD),Logo Colors,Headquarters
+1,Walmart,Retail,$611,"Blue, Yellow",Arkansas
+2,Amazon,E-commerce,$514,"Black, Orange, White",Washington
+3,Apple,Technology,$394,"Black, White, Grey",California
+4,UnitedHealth Group,Health Insurance,$348,"Green, Blue, White",Minnesota
+5,Berkshire Hathaway,Conglomerate,$324,"Red, White, Blue",Nebraska
+6,CVS Health,Healthcare,$335,"Red, White",Rhode Island
+7,Exxon Mobil,Oil & Gas,$414,"Red, Blue, White",Texas
+8,Alphabet,Technology,$280,"Blue, Red, Yellow, Green",California
+9,McKesson,Healthcare,$277,"Blue, White",Texas
+10,Cencora,Pharmaceuticals,$239,"Blue, White",Pennsylvania
+11,Costco Wholesale,Retail,$237,"Red, Blue, White",Washington
+12,JPMorgan Chase,Financial Services,$149,"Blue, White",New York
+13,Microsoft,Technology,$212,"Blue, Red, Yellow, Green",Washington
+14,Cardinal Health,Healthcare,$181,"Red, White",Ohio
+15,Chevron,Oil & Gas,$230,"Blue, Red, White",California
+16,Cigna Group,Health Insurance,$181,"Blue, White",Connecticut
+17,Ford Motor,Automotive,$158,"Blue, White",Michigan
+18,Bank of America,Financial Services,$112,"Blue, Red, White",North Carolina
+19,General Motors,Automotive,$157,"Blue, White",Michigan
+20,Elevance Health,Health Insurance,$157,"Blue, White",Indiana
+21,Citigroup,Financial Services,$96,"Blue, Red",New York
+22,Centene,Health Insurance,$145,"Blue, Green",Missouri
+23,Home Depot,Retail,$157,"Orange, White",Georgia
+24,Marathon Petroleum,Oil & Gas,$166,"Red, Blue, White",Ohio
+25,Kroger,Retail,$138,"Blue, White",Ohio
+26,Phillips 66,Oil & Gas,$134,"Red, White",Texas
+27,Fannie Mae,Financial Services,$31,"Blue, White","Washington, D.C"
+28,Walgreens Boots Alliance,Healthcare,$133,"Blue, Green",Illinois
+29,Valero Energy,Oil & Gas,$177,"Blue, Yellow",Texas
+30,Meta Platforms,Technology,$117,"Blue, White",California
+31,Verizon Communications,Telecommunications,$134,"Red, Black, White",New York
+32,AT&T,Telecommunications,$134,"Blue, White",Texas
+33,Comcast,Telecommunications,$121,"Blue, Red, Yellow, Green",Pennsylvania
+34,Wells Fargo,Financial Services,$82,"Red, Yellow",California
+35,Goldman Sachs Group,Financial Services,$59,"Blue, White",New York
+36,Freddie Mac,Financial Services,$25,"Green, Blue",Virginia
+37,Target,Retail,$109,"Red, White",Minnesota
+38,Humana,Health Insurance,$108,"Green, White",Kentucky
+39,State Farm Insurance,Insurance,$79,"Red, White",Illinois
+40,Tesla,Automotive,$94,"Red, Black, White",Texas
+41,Morgan Stanley,Banking & Financial Services,$1,Test,New York
+42,Johnson & Johnson,Healthcare & Pharmaceuticals,$2,Test,New Jersey
+43,Archer Daniels Midland,Food Processing,$3,Test,Chicago
+44,PepsiCo,Food & Beverage,$4,Test,New York
+45,UPS,Logistics,$5,Test,Georgia
+46,FedEx,Logistics,$6,Test,Tennessee
+47,Walt Disney,Media & Entertainment,$7,Test,California
+48,Dell Technologies,Technology & Hardware,$8,Test,Texas
+49,Lowe's,Retail,$9,Test,North Carolina
+50,Procter & Gamble,Consumer Goods,$10,Test,Ohio
+51,Energy Transfer,Oil & Gas,$11,Test,Texas
+52,Boeing,Aerospace & Defense,$12,Test,Virginia
+53,Albertsons,Retail,$13,Test,Idaho
+54,Sysco,Food Distribution,$14,Test,Texas
+55,RTX,Aerospace & Defense,$15,Test,Virginia
+56,General Electric,Conglomerate,$16,Test,Massachusetts
+57,Lockheed Martin,Aerospace & Defense,$17,Test,Maryland
+58,American Express,Financial Services,$18,Test,New York
+59,Caterpillar,Construction Machinery,$19,Test,Texas
+60,MetLife,Insurance,$20,Test,New York
+61,HCA Healthcare,Healthcare,$21,Test,Tennessee
+62,Progressive,Insurance,$22,Test,Ohio
+63,IBM,Technology & IT Services,$23,Test,New York
+64,Deere,Manufacturing,$24,Test,Illinois
+65,Nvidia,Technology & Semiconductors,$25,Test,California
+66,StoneX Group,Financial Services,$26,Test,New York
+67,Merck,Pharmaceuticals,$27,Test,New Jersey
+68,ConocoPhillips,Oil & Gas,$28,Test,Texas
+69,Pfizer,Pharmaceuticals,$29,Test,New York
+70,Delta Air Lines,Airlines,$30,Test,Georgia
+71,TD Synnex,IT Distribution,$31,Test,California
+72,Publix Super Markets,Retail,$32,Test,Florida
+73,Allstate,Insurance,$33,Test,Illinois
+74,Cisco Systems,Technology & Networking,$34,Test,California
+75,Nationwide,Insurance,$35,Test,Ohio
+76,Charter Communications,Telecommunications,$36,Test,Connecticut
+77,AbbVie,Pharmaceuticals,$37,Test,Illinois
+78,New York Life Insurance,Insurance,$38,Test,New York
+79,Intel,Technology & Semiconductors,$39,Test,California
+80,TJX,Retail,$40,Test,Massachusetts
+81,Prudential Financial,Insurance,$41,Test,New Jersey
+82,HP,Technology & Hardware,$42,Test,California
+83,United Airlines Holdings,Airlines,$43,Test,Chicago
+84,Performance Food Group,Food Distribution,$44,Test,Virginia
+85,Tyson Foods,Food Processing,$45,Test,Arkansas
+86,American Airlines Group,Airlines,$46,Test,Texas
+87,Liberty Mutual Insurance Group,Insurance,$47,Test,Massachusetts
+88,Nike,Apparel,$48,Test,Oregon
+89,Oracle,Technology & Software,$49,Test,Texas
+90,Enterprise Products Partners,Oil & Gas,$50,Test,Texas
+91,Capital One Financial,Financial Services,$51,Test,Virginia
+92,Plains GP Holdings,Oil & Gas,$52,Test,Texas
+93,World Kinect,Energy Services,$53,Test,Florida
+94,AIG,Insurance,$54,Test,New York
+95,Coca-Cola,Food & Beverage,$55,Test,Georgia
+96,TIAA,Financial Services,$56,Test,New York
+97,CHS,Agriculture,$57,Test,Minnesota
+98,Bristol-Myers Squibb,Pharmaceuticals,$58,Test,New Jersey
+99,Dow,Chemicals,$59,Test,Michigan
+100,Best Buy,Retail,$60,Test,Minnesota
+101,Thermo Fisher Scientific,Healthcare & Biotechnology,$61,Test,Massachusetts
+102,Massachusetts Mutual Life Insurance,Insurance,$62,Test,Massachusetts
+103,USAA,Insurance,$63,Test,Texas
+104,General Dynamics,Aerospace & Defense,$64,Test,Virginia
+105,Travelers,Insurance,$65,Test,New York
+106,Warner Bros. Discovery,Media & Entertainment,$66,Test,New York
+107,U.S. Bancorp,Banking & Financial Services,$67,Test,Minnesota
+108,Abbott Laboratories,Healthcare & Pharmaceuticals,$68,Test,Illinois
+109,Northrop Grumman,Aerospace & Defense,$69,Test,Virginia
+110,Northwestern Mutual,Insurance,$70,Test,Wisconsin
+111,Dollar General,Retail,$71,Test,Tennessee
+112,PBF Energy,Oil & Gas,$72,Test,New Jersey
+113,Uber Technologies,Technology & Transportation,$73,Test,California
+114,Honeywell International,Conglomerate,$74,Test,North Carolina
+115,Mondelez International,Food & Beverage,$75,Test,Chicago
+116,Starbucks,Food & Beverage,$76,Test,Washington
+117,Qualcomm,Technology & Semiconductors,$77,Test,California
+118,Broadcom,Technology & Semiconductors,$78,Test,California
+119,US Foods Holding,Food Distribution,$79,Test,Illinois
+120,D.R. Horton,Construction,$80,Test,Texas
+121,Philip Morris International,Tobacco,$81,Test,Connecticut
+122,Paccar,Manufacturing,$82,Test,Washington
+123,Salesforce,Technology & Software,$83,Test,California
+124,Nucor,Manufacturing,$84,Test,North Carolina
+125,Jabil,Manufacturing,$85,Test,Florida
+126,Lennar,Construction,$86,Test,Florida
+127,Eli Lilly,Pharmaceuticals,$87,Test,Indiana
+128,Molina Healthcare,Healthcare,$88,Test,California
+129,Cummins,Manufacturing,$89,Test,Indiana
+130,Bank of New York Mellon,Banking & Financial Services,$90,Test,New York
+131,Netflix,Media & Entertainment,$91,Test,California
+132,Truist Financial,Banking & Financial Services,$92,Test,North Carolina
+133,Arrow Electronics,Technology Distribution,$93,Test,Colorado
+134,3M,Manufacturing,$94,Test,Minnesota
+135,Visa,Financial Services,$95,Test,California
+136,Apollo Global Management,Financial Services,$96,Test,New York
+137,HF Sinclair,Oil & Gas,$97,Test,Texas
+138,CBRE Group,Real Estate,$98,Test,Texas
+139,PNC Financial Services Group,Banking & Financial Services,$99,Test,Pennsylvania
+140,Lithia Motors,Automotive,$100,Test,Oregon
+141,CarMax,Automotive,$101,Test,Virginia
+142,Paramount Global,Media & Entertainment,$102,Test,New York
+143,Dollar Tree,Retail,$103,Test,Virginia
+144,United Natural Foods,Food Distribution,$104,Test,Rhode Island
+145,PayPal Holdings,Financial Technology,$105,Test,California
+146,Penske Automotive Group,Automotive,$106,Test,Michigan
+147,Hewlett Packard Enterprise,Technology & IT Services,$107,Test,Texas
+148,Duke Energy,Utilities,$108,Test,North Carolina
+149,Occidental Petroleum,Oil & Gas,$109,Test,Texas
+150,NRG Energy,Energy,$110,Test,Texas
+151,Amgen,Pharmaceuticals,$111,Test,California
+152,NextEra Energy,Utilities,$112,Test,Florida
+153,Danaher,Healthcare & Technology,$113,Test,"Washington, D.C"
+154,Gilead Sciences,Pharmaceuticals,$114,Test,California
+155,AutoNation,Automotive,$115,Test,Florida
+156,Kraft Heinz,Food & Beverage,$116,Test,Chicago
+157,Avnet,Technology Distribution,$117,Test,Arizona
+158,Applied Materials,Technology & Semiconductors,$118,Test,California
+159,Southwest Airlines,Airlines,$119,Test,Texas
+160,Charles Schwab,Financial Services,$120,Test,Texas
+161,Baker Hughes,Oil & Gas,$121,Test,Texas
+162,McDonald's,Food & Beverage,$122,Test,Chicago
+163,Southern,Utilities,$123,Test,Georgia
+164,Mastercard,Financial Services,$124,Test,New York
+165,Constellation Energy,Energy,$125,Test,Maryland
+166,Hartford Financial Services Group,Insurance,$126,Test,Connecticut
+167,PG&E,Utilities,$127,Test,California
+168,Coupang,E-commerce,$128,Test,Washington
+169,EOG Resources,Oil & Gas,$129,Test,Texas
+170,Union Pacific,Railroads,$130,Test,Nebraska
+171,Rite Aid,Retail & Pharmacy,$131,Test,Pennsylvania
+172,Macy's,Retail,$132,Test,New York
+173,Marriott International,Hospitality,$133,Test,Maryland
+174,Lear,Automotive,$134,Test,Michigan
+175,Genuine Parts,Automotive,$135,Test,Georgia
+176,Sherwin-Williams,Chemicals,$136,Test,Ohio
+177,Halliburton,Oil & Gas,$137,Test,Texas
+178,Freeport-McMoRan,Mining,$138,Test,Arizona
+179,Live Nation Entertainment,Media & Entertainment,$139,Test,California
+180,Marsh & McLennan,Insurance & Consulting,$140,Test,New York
+181,Advanced Micro Devices,Technology & Semiconductors,$141,Test,California
+182,First Citizens BancShares,Banking & Financial Services,$142,Test,North Carolina
+183,WESCO International,Technology Distribution,$143,Test,Pennsylvania
+184,Carrier Global,Manufacturing,$144,Test,Florida
+185,Cleveland-Cliffs,Mining,$145,Test,Ohio
+186,Block,Financial Technology,$146,Test,California
+187,Exelon,Utilities,$147,Test,Chicago
+188,KKR,Financial Services,$148,Test,New York
+189,CDW,Technology Distribution,$149,Test,Illinois
+190,Booking Holdings,Technology & Travel,$150,Test,Connecticut
+191,Synchrony,Financial Services,$151,Test,Connecticut
+192,Quanta Services,Construction,$152,Test,Texas
+193,Jones Lang LaSalle,Real Estate,$153,Test,Chicago
+194,Discover Financial Services,Financial Services,$154,Test,Illinois
+195,Tenet Healthcare,Healthcare,$155,Test,Texas
+196,Altria Group,Tobacco,$156,Test,Virginia
+197,Stryker,Medical Devices,$157,Test,Michigan
+198,Kimberly-Clark,Consumer Goods,$158,Test,Texas
+199,Waste Management,Waste Disposal,$159,Test,Texas
+200,Cheniere Energy,Oil & Gas,$160,Test,Texas
+201,Ross Stores,Retail,$161,Test,California
+202,WestRock,Packaging,$162,Test,Georgia
+203,General Mills,Food & Beverage,$163,Test,Minnesota
+204,Goodyear Tire & Rubber,Automotive,$164,Test,Ohio
+205,BJ's Wholesale Club,Retail,$165,Test,Massachusetts
+206,GE HealthCare Technologies,Healthcare,$166,Test,Chicago
+207,Colgate-Palmolive,Consumer Goods,$167,Test,New York
+208,Whirlpool,Appliances,$168,Test,Michigan
+209,L3Harris Technologies,Aerospace & Defense,$169,Test,Florida
+210,Adobe,Technology & Software,$170,Test,California
+211,Becton Dickinson,Medical Devices,$171,Test,New Jersey
+212,Pioneer Natural Resources,Oil & Gas,$172,Test,Texas
+213,Cognizant Technology Solutions,Technology & IT Services,$173,Test,New Jersey
+214,Murphy USA,Retail,$174,Test,Arkansas
+215,Fiserv,Financial Technology,$175,Test,Wisconsin
+216,Parker-Hannifin,Manufacturing,$176,Test,Ohio
+217,American Electric Power,Utilities,$177,Test,Ohio
+218,International Paper,Packaging,$178,Test,Tennessee
+219,ManpowerGroup,Employment Services,$179,Test,Wisconsin
+220,Aramark,Food Services,$180,Test,Pennsylvania
+221,Steel Dynamics,Manufacturing,$181,Test,Indiana
+222,Aflac,Insurance,$182,Test,Georgia
+223,Reinsurance Group of America,Insurance,$183,Test,Missouri
+224,Emerson Electric,Manufacturing,$184,Test,Missouri
+225,State Street,Financial Services,$185,Test,Massachusetts
+226,PPG Industries,Chemicals,$186,Test,Pennsylvania
+227,United States Steel,Manufacturing,$187,Test,Pennsylvania
+228,Automatic Data Processing,Technology & IT Services,$188,Test,New Jersey
+229,Group 1 Automotive,Automotive,$189,Test,Texas
+230,Dominion Energy,Utilities,$190,Test,Virginia
+231,BlackRock,Financial Services,$191,Test,New York
+232,Oneok,Oil & Gas,$192,Test,Oklahoma
+233,C.H. Robinson Worldwide,Logistics,$193,Test,Minnesota
+234,Texas Instruments,Technology & Semiconductors,$194,Test,Texas
+235,Kohl's,Retail,$195,Test,Wisconsin
+236,AutoZone,Automotive,$196,Test,Tennessee
+237,Lam Research,Technology & Semiconductors,$197,Test,California
+238,Corteva,Agriculture,$198,Test,Indiana
+239,Peter Kiewit Sons',Construction,$199,Test,Nebraska
+240,Builders FirstSource,Construction,$200,Test,Texas
+241,Kyndryl Holdings,Technology & IT Services,$201,Test,New York
+242,EchoStar,Telecommunications,$202,Test,Colorado
+243,American Family Insurance Group,Insurance,$203,Test,Wisconsin
+244,Delek US Holdings,Oil & Gas,$204,Test,Tennessee
+245,Land O'Lakes,Agriculture,$205,Test,Minnesota
+246,Sempra,Utilities,$206,Test,California
+247,Global Partners,Energy,$207,Test,Massachusetts
+248,Grainger,Industrial Supplies,$208,Test,Illinois
+249,Jacobs Solutions,Construction,$209,Test,Texas
+250,Edison International,Utilities,$210,Test,California
+251,MGM Resorts International,Hospitality,$211,Test,Nevada
+252,Guardian Life Ins. Co. of America,Insurance,$212,Test,New York
+253,Illinois Tool Works,Manufacturing,$213,Test,Illinois
+254,Ameriprise Financial,Financial Services,$214,Test,Minnesota
+255,PulteGroup,Construction,$215,Test,Georgia
+256,Targa Resources,Oil & Gas,$216,Test,Texas
+257,Ally Financial,Financial Services,$217,Test,Michigan
+258,BorgWarner,Automotive,$218,Test,Michigan
+259,Estée Lauder,Consumer Goods,$219,Test,New York
+260,Loews,Conglomerate,$220,Test,New York
+261,O'Reilly Automotive,Automotive,$221,Test,Missouri
+262,Markel Group,Insurance,$222,Test,Virginia
+263,Stanley Black & Decker,Manufacturing,$223,Test,Connecticut
+264,Micron Technology,Technology & Semiconductors,$224,Test,Idaho
+265,Fluor,Construction,$225,Test,Texas
+266,Leidos Holdings,Aerospace & Defense,$226,Test,Virginia
+267,Viatris,Pharmaceuticals,$227,Test,Pennsylvania
+268,Kinder Morgan,Oil & Gas,$228,Test,Texas
+269,Ecolab,Chemicals,$229,Test,Minnesota
+270,Baxter International,Medical Devices,$230,Test,Illinois
+271,Devon Energy,Oil & Gas,$231,Test,Oklahoma
+272,Kellanova,Food & Beverage,$232,Test,Chicago
+273,Farmers Insurance Exchange,Insurance,$233,Test,California
+274,Casey's General Stores,Retail,$234,Test,Iowa
+275,IQVIA Holdings,Healthcare & Biotechnology,$235,Test,North Carolina
+276,Republic Services,Waste Disposal,$236,Test,Arizona
+277,Fox,Media & Entertainment,$237,Test,New York
+278,Gap,Retail,$238,Test,California
+279,Keurig Dr Pepper,Food & Beverage,$239,Test,Massachusetts
+280,Reliance,Energy Services,$240,Test,Arizona
+281,Asbury Automotive Group,Automotive,$241,Test,Georgia
+282,Pacific Life,Insurance,$242,Test,California
+283,Vistra,Utilities,$243,Test,Texas
+284,Western & Southern Financial Group,Insurance,$244,Test,Ohio
+285,Andersons,Agriculture,$245,Test,Ohio
+286,Nordstrom,Retail,$246,Test,Washington
+287,Omnicom Group,Advertising & Marketing,$247,Test,New York
+288,Fidelity National Information Services,Financial Technology,$248,Test,Alabama
+289,Consolidated Edison,Utilities,$249,Test,New York
+290,CSX,Railroads,$250,Test,Alabama
+291,AECOM,Construction,$251,Test,Texas
+292,Lumen Technologies,Telecommunications,$252,Test,Louisiana
+293,Tractor Supply,Retail,$253,Test,Tennessee
+294,DXC Technology,Technology & IT Services,$254,Test,Virginia
+295,AGCO,Agriculture,$255,Test,Georgia
+296,Sonic Automotive,Automotive,$256,Test,North Carolina
+297,Intuit,Technology & Software,$257,Test,California
+298,United Rentals,Construction,$258,Test,Connecticut
+299,Universal Health Services,Healthcare,$259,Test,Pennsylvania
+300,Boston Scientific,Medical Devices,$260,Test,Massachusetts
+301,Otis Worldwide,Manufacturing,$261,Test,Connecticut
+302,Xcel Energy,Utilities,$262,Test,Minnesota
+303,Edward Jones,Financial Services,$263,Test,Missouri
+304,Ball,Packaging,$264,Test,Colorado
+305,LKQ,Automotive,$265,Test,Chicago
+306,Mutual of Omaha,Insurance,$266,Test,Nebraska
+307,Mosaic,Agriculture,$267,Test,Florida
+308,Textron,Aerospace & Defense,$268,Test,Rhode Island
+309,Laboratory Corp. of America,Healthcare,$269,Test,North Carolina
+310,Principal Financial,Financial Services,$270,Test,Iowa
+311,Regeneron Pharmaceuticals,Pharmaceuticals,$271,Test,New York
+312,Raymond James Financial,Financial Services,$272,Test,Florida
+313,Dick's Sporting Goods,Retail,$273,Test,Pennsylvania
+314,Auto-Owners Insurance,Insurance,$274,Test,Michigan
+315,Expedia Group,Technology & Travel,$275,Test,Washington
+316,J.B. Hunt Transport Services,Logistics,$276,Test,Arkansas
+317,M&T Bank,Banking & Financial Services,$277,Test,New York
+318,DTE Energy,Utilities,$278,Test,Michigan
+319,AES,Utilities,$279,Test,Virginia
+320,Berry Global Group,Packaging,$280,Test,Indiana
+321,Fifth Third Bancorp,Banking & Financial Services,$281,Test,Ohio
+322,Air Products & Chemicals,Chemicals,$282,Test,Pennsylvania
+323,Corning,Manufacturing,$283,Test,New York
+324,EMCOR Group,Construction,$284,Test,Connecticut
+325,Amphenol,Technology & Manufacturing,$285,Test,Connecticut
+326,Westlake,Chemicals,$286,Test,Texas
+327,DuPont,Chemicals,$287,Test,Delaware
+328,Liberty Media,Media & Entertainment,$288,Test,Colorado
+329,S&P Global,Financial Services,$289,Test,New York
+330,Community Health Systems,Healthcare,$290,Test,Tennessee
+331,FirstEnergy,Utilities,$291,Test,Ohio
+332,Unum Group,Insurance,$292,Test,Tennessee
+333,Henry Schein,Healthcare & Distribution,$293,Test,New York
+334,Western Digital,Technology & Storage,$294,Test,California
+335,Analog Devices,Technology & Semiconductors,$295,Test,Massachusetts
+336,Conagra Brands,Food & Beverage,$296,Test,Chicago
+337,Citizens Financial Group,Banking & Financial Services,$297,Test,Rhode Island
+338,Norfolk Southern,Railroads,$298,Test,Georgia
+339,Entergy,Utilities,$299,Test,Louisiana
+340,W.R. Berkley,Insurance,$300,Test,Connecticut
+341,DaVita,Healthcare,$301,Test,Colorado
+342,Northern Trust,Financial Services,$302,Test,Chicago
+343,Hormel Foods,Food & Beverage,$303,Test,Minnesota
+344,Crown Holdings,Packaging,$304,Test,Florida
+345,Avis Budget Group,Automotive,$305,Test,New Jersey
+346,Wayfair,E-commerce,$306,Test,Massachusetts
+347,MasTec,Construction,$307,Test,Florida
+348,Eversource Energy,Utilities,$308,Test,Massachusetts
+349,Newmont,Mining,$309,Test,Colorado
+350,Ryder System,Logistics,$310,Test,Florida
+351,Fidelity National Financial,Financial Services,$311,Test,Alabama
+352,Molson Coors Beverage,Food & Beverage,$312,Test,Chicago
+353,Caesars Entertainment,Hospitality,$313,Test,Nevada
+354,Lincoln National,Insurance,$314,Test,Pennsylvania
+355,VF,Apparel,$315,Test,Colorado
+356,International Flavors & Fragrances,Chemicals,$316,Test,New York
+357,Huntington Ingalls Industries,Aerospace & Defense,$317,Test,Virginia
+358,Advance Auto Parts,Automotive,$318,Test,North Carolina
+359,Public Service Enterprise Group,Utilities,$319,Test,New Jersey
+360,Ulta Beauty,Retail,$320,Test,Illinois
+361,Hershey,Food & Beverage,$321,Test,Pennsylvania
+362,Chewy,E-commerce,$322,Test,Florida
+363,American Tower,Telecommunications,$323,Test,Massachusetts
+364,Mohawk Industries,Manufacturing,$324,Test,Georgia
+365,Assurant,Insurance,$325,Test,Georgia
+366,Thor Industries,Manufacturing,$326,Test,Indiana
+367,Graybar Electric,Electrical Supplies,$327,Test,Missouri
+368,Yum China Holdings,Food & Beverage,$328,Test,Texas
+369,Celanese,Chemicals,$329,Test,Texas
+370,Qurate Retail,Retail,$330,Test,Colorado
+371,Williams,Oil & Gas,$331,Test,Oklahoma
+372,Interpublic Group,Advertising & Marketing,$332,Test,New York
+373,Ovintiv,Oil & Gas,$333,Test,Colorado
+374,Icahn Enterprises,Conglomerate,$334,Test,Florida
+375,Huntington Bancshares,Banking & Financial Services,$335,Test,Ohio
+376,Erie Insurance Group,Insurance,$336,Test,Pennsylvania
+377,Carvana,Automotive,$337,Test,Arizona
+378,Hess,Oil & Gas,$338,Test,New York
+379,Dana,Automotive,$339,Test,Ohio
+380,Alcoa,Manufacturing,$340,Test,Pennsylvania
+381,Equitable Holdings,Financial Services,$341,Test,New York
+382,KLA,Technology & Semiconductors,$342,Test,California
+383,Darden Restaurants,Food & Beverage,$343,Test,Florida
+384,Autoliv,Automotive,$344,Test,Michigan
+385,Alaska Air Group,Airlines,$345,Test,Washington
+386,KeyCorp,Banking & Financial Services,$346,Test,Ohio
+387,Las Vegas Sands,Hospitality,$347,Test,Nevada
+388,Owens & Minor,Healthcare,$348,Test,Virginia
+389,Hilton Worldwide Holdings,Hospitality,$349,Test,Virginia
+390,Ebay,E-commerce,$350,Test,California
+391,Arthur J. Gallagher,Insurance,$351,Test,Illinois
+392,LPL Financial Holdings,Financial Services,$352,Test,California
+393,Cincinnati Financial,Insurance,$353,Test,Ohio
+394,Toll Brothers,Construction,$354,Test,Pennsylvania
+395,Motorola Solutions,Technology & Telecommunications,$355,Test,Chicago
+396,Airbnb,E-commerce & Travel,$356,Test,California
+397,Intercontinental Exchange,Financial Services,$357,Test,Georgia
+398,News Corp.,Media & Publishing,$358,Test,New York
+399,Chipotle Mexican Grill,Food & Beverage,$359,Test,California
+400,Vertex Pharmaceuticals,Pharmaceuticals,$360,Test,Massachusetts
+401,Biogen,Pharmaceuticals,$361,Test,Massachusetts
+402,GXO Logistics,Logistics,$362,Test,Connecticut
+403,SpartanNash,Food Distribution,$363,Test,Michigan
+404,Burlington Stores,Retail,$364,Test,New Jersey
+405,Thrivent Financial for Lutherans,Financial Services,$365,Test,Minnesota
+406,NVR,Construction,$366,Test,Virginia
+407,Owens Corning,Manufacturing,$367,Test,Ohio
+407,Westinghouse Air Brake Technologies,Transportation Equipment,$368,Test,Pennsylvania
+409,Oshkosh,Manufacturing,$369,Test,Wisconsin
+410,Global Payments,Financial Technology,$370,Test,Georgia
+411,Lululemon Athletica,Apparel,$371,Test,Washington
+412,Albemarle,Chemicals,$372,Test,North Carolina
+413,JetBlue Airways,Airlines,$373,Test,New York
+414,Seaboard,Agriculture & Food Processing,$374,Test,Kansas
+415,Constellation Brands,Food & Beverage,$375,Test,New York
+416,Graphic Packaging Holding,Packaging,$376,Test,Georgia
+417,Hertz Global Holdings,Automotive,$377,Test,Florida
+418,FM Global,Insurance,$378,Test,Rhode Island
+419,Campbell Soup,Food & Beverage,$379,Test,New Jersey
+420,Expeditors Intl. of Washington,Logistics,$380,Test,Washington
+421,A-Mark Precious Metals,Precious Metals,$381,Test,California
+422,Booz Allen Hamilton Holding,Consulting,$382,Test,Virginia
+423,Quest Diagnostics,Healthcare,$383,Test,New Jersey
+424,Altice USA,Telecommunications,$384,Test,New York
+425,PVH,Apparel,$385,Test,New York
+426,Eastman Chemical,Chemicals,$386,Test,Tennessee
+427,Insight Enterprises,Technology & IT Services,$387,Test,Arizona
+428,Regions Financial,Banking & Financial Services,$388,Test,Alabama
+429,Beacon Roofing Supply,Construction,$389,Test,Virginia
+430,Rockwell Automation,Manufacturing,$390,Test,Wisconsin
+431,Polaris,Manufacturing,$391,Test,Minnesota
+432,ServiceNow,Technology & IT Services,$392,Test,California
+433,Sanmina,Manufacturing,$393,Test,California
+434,UGI,Utilities,$394,Test,Pennsylvania
+435,WEC Energy Group,Utilities,$395,Test,Wisconsin
+436,BrightSpring Health Services,Healthcare,$396,Test,Kentucky
+437,Cintas,Business Services,$397,Test,Ohio
+438,Commercial Metals,Manufacturing,$398,Test,Texas
+439,Continental Resources,Oil & Gas,$399,Test,Oklahoma
+440,Chesapeake Energy,Oil & Gas,$400,Test,Oklahoma
+441,CenterPoint Energy,Utilities,$401,Test,Texas
+442,NGL Energy Partners,Oil & Gas,$402,Test,Oklahoma
+443,DoorDash,E-commerce,$403,Test,California
+444,NOV,Oil & Gas,$404,Test,Texas
+445,Zoetis,Animal Health,$405,Test,New Jersey
+446,J.M. Smucker,Food & Beverage,$406,Test,Ohio
+447,Microchip Technology,Technology & Semiconductors,$407,Test,Arizona
+448,Dover,Manufacturing,$408,Test,Illinois
+449,Diamondback Energy,Oil & Gas,$409,Test,Texas
+450,Avery Dennison,Manufacturing,$410,Test,Ohio
+451,PPL,Utilities,$411,Test,Pennsylvania
+452,ON Semiconductor,Technology & Semiconductors,$412,Test,Arizona
+453,ARKO,Retail,$413,Test,Virginia
+454,Par Pacific Holdings,Oil & Gas,$414,Test,Texas
+455,APA,Oil & Gas,$415,Test,Texas
+456,Equinix,Data Centers,$416,Test,California
+457,New York Community Bancorp,Banking & Financial Services,$417,Test,New York
+458,Foot Locker,Retail,$418,Test,New York
+459,Ingredion,Food & Beverage,$419,Test,Illinois
+460,Newell Brands,Consumer Goods,$420,Test,Georgia
+461,ABM Industries,Business Services,$421,Test,New York
+462,Securian Financial Group,Insurance,$422,Test,Minnesota
+463,Prologis,Real Estate,$423,Test,California
+464,Blackstone,Financial Services,$424,Test,New York
+465,Skechers U.S.A.,Apparel,$425,Test,California
+466,Masco,Manufacturing,$426,Test,Michigan
+467,Rush Enterprises,Automotive,$427,Test,Texas
+468,Franklin Resources,Financial Services,$428,Test,California
+469,ODP,Retail,$429,Test,Florida
+470,American Financial Group,Insurance,$430,Test,Ohio
+471,Packaging Corp. of America,Packaging,$431,Test,Illinois
+472,Vulcan Materials,Construction,$432,Test,Alabama
+473,Interactive Brokers Group,Financial Services,$433,Test,Connecticut
+474,Williams-Sonoma,Retail,$434,Test,California
+475,XPO,Logistics,$435,Test,Connecticut
+476,Weyerhaeuser,Real Estate,$436,Test,Washington
+477,Genworth Financial,Insurance,$437,Test,Virginia
+478,CMS Energy,Utilities,$438,Test,Michigan
+479,Science Applications International,Consulting,$439,Test,Virginia
+480,Jefferies Financial Group,Financial Services,$440,Test,New York
+481,Bath & Body Works,Retail,$441,Test,Ohio
+482,Electronic Arts,Technology & Gaming,$442,Test,California
+483,Taylor Morrison Home,Construction,$443,Test,Arizona
+484,Zimmer Biomet Holdings,Medical Devices,$444,Test,Indiana
+485,Clorox,Consumer Goods,$445,Test,California
+486,Xylem,Manufacturing,$446,Test,"Washington, D.C"
+487,Voya Financial,Financial Services,$447,Test,New York
+488,Fastenal,Industrial Supplies,$448,Test,Minnesota
+489,Watsco,HVAC Equipment,$449,Test,Florida
+490,Workday,Technology & Software,$450,Test,California
+491,Old Republic International,Insurance,$451,Test,Chicago
+492,RPM International,Chemicals,$452,Test,Ohio
+493,UFP Industries,Manufacturing,$453,Test,Michigan
+494,Ameren,Utilities,$454,Test,Missouri
+495,Knight-Swift Transportation Holdings,Logistics,$455,Test,Arizona
+496,Monster Beverage,Food & Beverage,$456,Test,California
+497,Intuitive Surgical,Medical Devices,$457,Test,California
+498,Super Micro Computer,Technology & Manufacturing,$458,Test,California
+499,Concentrix,Business Services,$459,Test,California
+500,O-I Glass,Manufacturing,$460,Test,Ohio
